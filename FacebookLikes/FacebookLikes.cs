@@ -10,21 +10,16 @@ namespace Make_a_Diamond
     {
         static void Main(string[] args)
         {
-
             string[] test1 = new string[] { "Alex", "Jacob", "Mark", "Max" };
             string[] test2 = new string[] {"Max", "John", "Mark" };
-
             Console.WriteLine(Likes(test1));
             Console.WriteLine(Likes(test2));
-
             Console.ReadLine();
-
         }
 
         public static string Likes(string[] name)
         {
             string likeSentence = "no one likes this";
-
 
             if (name.Length == 1)
             {
@@ -46,10 +41,7 @@ namespace Make_a_Diamond
             {
                 int numberOfOthers = name.Length - 2;
                 likeSentence = name[0] + ", " + name[1] + " and " + numberOfOthers + " others like this";
-
             }
-
-
             return likeSentence;
         }
     }
