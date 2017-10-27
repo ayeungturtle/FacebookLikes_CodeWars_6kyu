@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make a Diamond", "Make a Diamond\Make a Diamond.csproj", "{27514E8C-E149-4035-884C-5DBAEDB1143A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27514E8C-E149-4035-884C-5DBAEDB1143A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27514E8C-E149-4035-884C-5DBAEDB1143A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27514E8C-E149-4035-884C-5DBAEDB1143A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27514E8C-E149-4035-884C-5DBAEDB1143A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70DE4258-4368-46DD-BD16-53A35C01FB4C}
+	EndGlobalSection
+EndGlobal
